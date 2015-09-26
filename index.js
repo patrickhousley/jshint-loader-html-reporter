@@ -1,6 +1,6 @@
 /*
  MIT License http://www.opensource.org/licenses/mit-license.php
- Author Tobias Koppers @sokra
+ Author Patrick Housley @patrickhousley
  */
 module.exports = {
   jshintLoaderReporter: require('./jshint-html-reporter-loader'),

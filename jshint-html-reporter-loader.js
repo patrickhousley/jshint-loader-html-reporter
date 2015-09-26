@@ -1,6 +1,6 @@
 /*
  MIT License http://www.opensource.org/licenses/mit-license.php
- Author Patrick Housley <patrick.f.housley@gmail.com>
+ Author Patrick Housley @patrickhousley
  */
 module.exports = function (errors) {
   if (!this._compiler.jshintErrors) {
