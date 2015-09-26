@@ -1,0 +1,22 @@
+{
+  "name": "jshint-loader-html-reporter",
+  "version": "0.0.1",
+  "author": "Patrick Housley <patrick.f.housley@gmail.com>",
+  "description": "html report generator for jshint webpack loader",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "peerDependencies": {
+    "jshint-loader": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:patrickhousley/jshint-loader-html-reporter"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
