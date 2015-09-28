@@ -17,7 +17,7 @@ This package requires the use of the webpack jshint loader. You can find more in
 		reporter: jshintLoaderHtmlReporter.jshintLoaderReporter
 	},
 	
-	// ass the jshint loader html reporter plugin to your webpack config plugins
+	// add the jshint loader html reporter plugin to your webpack config plugins
   plugins: [
       new jshintLoaderHtmlReporter.jshintReporterPlugin({
         outputFileName: 'example.html',
