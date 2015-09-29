@@ -1,6 +1,6 @@
 {
   "name": "jshint-loader-html-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Patrick Housley @patrickhousley",
   "description": "html report generator for jshint webpack loader",
   "main": "index.js",
